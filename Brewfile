@@ -34,6 +34,7 @@ brew 'libmemcached'
 brew 'memcached'
 brew 'node'
 brew 'yarn'
+brew 'zsh'
 
 # Apps
 cask '1password'
@@ -53,3 +54,4 @@ cask 'charles'
 cask 'postman'
 cask 'viscosity'
 cask 'soapui'
+cask 'iterm2'

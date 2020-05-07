@@ -10,13 +10,9 @@ alias c="clear"
 # Directories
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
-alias sites="cd $HOME/Sites"
-alias lara="sites && cd laravel/"
-
-# Laravel
-alias a="php artisan"
-alias fresh="php artisan migrate:fresh --seed"
-alias seed="php artisan db:seed"
+alias sites="cd $HOME/Projects"
+alias sweb="cd $HOME/Projects/SimpelWeb
+alias sbll="cd $HOME/Projects/SimpelBll
 
 # PHP
 alias php73="/usr/local/Cellar/php@7.3/7.3.13/bin/php"

@@ -44,6 +44,8 @@ cask 'gpg-suite'
 cask 'phpstorm'
 cask 'slack'
 cask 'sublime-text'
+cask 'virtualbox' # Allow this in System Preferences!!! 
+cask 'virtualbox-extension-pack'
 cask 'vagrant'
 cask 'vlc'
 cask 'zeplin'

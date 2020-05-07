@@ -45,8 +45,6 @@ cask 'phpstorm'
 cask 'slack'
 cask 'sublime-text'
 cask 'vagrant'
-cask 'virtualbox' # Might need to allow access in Security settings
-cask 'virtualbox-extension-pack'
 cask 'vlc'
 cask 'zeplin'
 cask 'charles'

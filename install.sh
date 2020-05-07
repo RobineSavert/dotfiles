@@ -8,11 +8,11 @@ if test ! $(which brew); then
 fi
 
 # Update Homebrew recipes
-sudo brew update
+brew update
 
 # Install all our dependencies with bundle (See Brewfile)
-sudo brew tap homebrew/bundle
-sudo brew bundle
+brew tap homebrew/bundle
+brew bundle
 
 # Install PHP extensions with PECL
 sudo pecl install memcached imagick
